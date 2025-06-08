@@ -1,0 +1,28 @@
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\bin\Debug\net9.0\appsettings.json
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\bin\Debug\net9.0\Final GP2.staticwebassets.endpoints.json
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\bin\Debug\net9.0\Final GP2.exe
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\bin\Debug\net9.0\Final GP2.deps.json
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\bin\Debug\net9.0\Final GP2.runtimeconfig.json
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\bin\Debug\net9.0\Final GP2.dll
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\bin\Debug\net9.0\Final GP2.pdb
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\Final GP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\Final GP2.AssemblyInfoInputs.cache
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\Final GP2.AssemblyInfo.cs
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\Final GP2.csproj.CoreCompileInputs.cache
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\Final GP2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\scopedcss\bundle\Final GP2.styles.css
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\staticwebassets\msbuild.Final GP2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\staticwebassets\msbuild.Final GP2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\staticwebassets\msbuild.build.Final GP2.props
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Final GP2.props
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Final GP2.props
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\Final GP2.dll
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\refint\Final GP2.dll
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\Final GP2.pdb
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\Final GP2.genruntimeconfig.cache
+C:\Users\moazn\OneDrive\سطح المكتب\GP2 Final Project\Final GP2\Final GP2\obj\Debug\net9.0\ref\Final GP2.dll
